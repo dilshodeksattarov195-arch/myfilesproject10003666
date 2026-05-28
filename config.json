@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevender",
+        "uuid": 33048990,
+        "checksum": "bmdm7n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
